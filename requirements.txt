@@ -1,0 +1,8 @@
+streamlit
+pymongo
+scikit-learn
+numpy
+pandas
+email-validator
+twilio
+Werkzeug  

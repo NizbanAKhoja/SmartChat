@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66d5e18127c898771185e2d6"
+  },
+  "email": "bugdebug1010@gmail.com",
+  "username": "Naksh",
+  "password": "scrypt:32768:8:1$K1C5XLCng94rthEE$42ded1ca77aefb2c6d3417aaa4330c05ad5105eea57d3d30b0e9157e4a77dbeb9e73099117cf7acc60ab6d3698e633aa488a3cc509e2e7e6a3e4f2bb4cb206d6",
+  "phone_number": "8401571113",
+  "api_key": "6344f924-7085-45bc-b277-749aae04fdb7"
+},
+{
+  "_id": {
+    "$oid": "66d5e31c1e87d624e848d35b"
+  },
+  "email": "dd445304@gmail.com",
+  "username": "NizbanAK",
+  "password": "scrypt:32768:8:1$cDvsP49e7KKbYRyr$2cf25da44bbbebc85132b2e8e204903779d75710adaeb3820f31750a1c007ea45fd146ecbde5993c0ee308074bf0d37965cee95b2c114c4e376ebcd64655355b",
+  "phone_number": "8401571113",
+  "api_key": "194a0e09-0509-43d7-aa83-dbe273891e2a"
+}]
